@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 29
     defaultConfig {
         applicationId "sol.earningapp.smtech"
-        minSdkVersion 15
-        targetSdkVersion 26
+        minSdkVersion 19
+        targetSdkVersion 29
         multiDexEnabled true
         versionCode 2
         versionName "1.1"
